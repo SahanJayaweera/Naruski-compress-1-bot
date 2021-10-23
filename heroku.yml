@@ -1,0 +1,5 @@
+build:
+  docker:
+    worker: requirements
+run:
+  worker: python3 -m bot
